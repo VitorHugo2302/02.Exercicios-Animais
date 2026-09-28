@@ -1,1 +1,1 @@
-# 02.Exercicios-Animais
+Integrantes que contribuíram nesta versão: Vitor
