@@ -22,7 +22,7 @@ public class Gato extends Animal {
         @Override
         public String toString() {
             return "Gato{" +
-            "nome ='" + getNome() + '\' ' +
+            "nome ='" + getNome() + '\'' +
             ", idade=" + getIdade() +
             ", cor='" + getCor() + '\'' + 
             '}';
