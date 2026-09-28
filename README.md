@@ -1,1 +1,1 @@
-Integrantes que contribuíram nesta versão: Vitor
+Integrantes que contribuíram nesta versão: Arthur
